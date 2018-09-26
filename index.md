@@ -6,7 +6,7 @@ address: "123 Boogie Woogie Ave, Middlebury, VT"      # full street address of w
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "44.009516,-73.174461"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "Sep 267-27, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Sep 26-27, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00am - 4:30pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-09-26      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-09-27        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
